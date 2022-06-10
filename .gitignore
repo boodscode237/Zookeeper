@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Topics/Type conversion/Simple converter/out/
+/Topics/Type conversion/Simple converter/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/
